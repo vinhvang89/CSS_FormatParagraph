@@ -1,0 +1,13 @@
+h1 {
+    color: darkred;
+    font-size: 32px;
+}
+div {
+    width: 50%;
+    height: 500px;
+    color: black;
+    background: orange;
+    text-align: left;
+    font-size: 22px;
+    text-decoration-style: solid;
+}
